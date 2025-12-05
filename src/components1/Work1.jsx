@@ -8,7 +8,7 @@ export const Work1 = () => {
         </div>
         <p className="text-base md:text-lg font-normal text-center max-w-xl">Some of the noteworthy projects I have built:</p>
       </div>
-      <div className="flex flex-col md:flex-row items-center gap-6 md:gap-12 w-full max-w-6xl mb-8 shadow-lg rounded-lg overflow-hidden md:pl-8">
+      <div className="flex flex-col md:flex-row items-center gap-6 md:gap-12 w-full max-w-6xl mb-8 shadow-lg rounded-lg overflow-hidden ">
         <div className="bg-gray-100 w-full md:w-1/3 flex justify-center p-4 md:p-8">
           <img src="ubcab.png" alt="ubcab" className="w-full h-auto rounded-md"/>
         </div>
